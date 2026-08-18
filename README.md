@@ -4,6 +4,7 @@
 
 ## 🔍 대표 프로젝트
 - [오늘 하루, 어디서 뭐 할까](https://github.com/hmh178-gif/daily-pick) — 주소·날씨 기반 활동/장소 추천 웹앱
+- ![Demo](./github_demo_8sec.gif)
 - https://daily-pick-project.netlify.app/ 
 - [프로젝트2 제목](repo 링크) — 한 줄 설명
 
