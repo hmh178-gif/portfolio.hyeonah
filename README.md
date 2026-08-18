@@ -3,7 +3,8 @@
 관심 분야: 데이터 분석, AI 활용, 자동화 등
 
 ## 🔍 대표 프로젝트
-- [오늘 하루, 어디서 뭐 할까](https://github.com/hmh178-gif/daily-pick) — 주소·날씨 기반 활동/장소 추천 웹앱 
+- [오늘 하루, 어디서 뭐 할까](https://github.com/hmh178-gif/daily-pick) — 주소·날씨 기반 활동/장소 추천 웹앱
+- https://daily-pick-project.netlify.app/ 
 - [프로젝트2 제목](repo 링크) — 한 줄 설명
 
 ## 🛠 기술 스택
