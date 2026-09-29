@@ -8,6 +8,7 @@
 - https://daily-pick-project.netlify.app/ 
 - [폭염 취약지역 · 무더위쉼터 사각지대 분석](https://github.com/hmh178-gif/poakyoem) — 폭염 대응이 우선적으로 필요한 시군구를 찾아내는 Power BI 데이터 분석 4인 팀프로젝트
 - [폭염 취약지역 분석 | Analysis Outputs](https://github.com/hmh178-gif/heatwave-orange3)-Power BI 프로젝트 파일, 주요 시각화 결과, 발표자료
+- [화장품 이커머스 고객 행동 및 구매 퍼널 분석](https://github.com/hmh178-gif/cosmetics-ecommerce-analysis)-화장품 이커머스 고객의 조회 → 장바구니 → 구매 행동을 분석하고, 주요 이탈 구간과 구매 전환 특성을 파악한 2인 팀 프로젝트
 
 ## 🛠 기술 스택
 [예: Python · SQL · Pandas · Tableau]
