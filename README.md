@@ -24,6 +24,7 @@
 `GitHub` `Notion`
 
 ---
+
 # 📂 Projects
 
 ## 🔌 API · Web Application
@@ -35,6 +36,7 @@
 
 🔗 [GitHub Repository](https://github.com/hmh178-gif/daily-pick)  
 🌐 [Web Demo](https://daily-pick-project.netlify.app/)
+
 ![Demo](./github_demo_8sec.gif)
 
 ---
