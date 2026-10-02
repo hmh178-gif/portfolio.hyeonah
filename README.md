@@ -99,6 +99,15 @@
 
 🔗 [GitHub Repository](https://github.com/hmh178-gif/cafe-book-recommender)
 
+### 🗺️ 혼삶 안심지도 · 서울
+**1인가구를 위한 생활편의시설 인터랙티브 지도**
+
+서울 25개 자치구의 1인가구 비율과 생활편의시설 14,288곳을 지도에 결합했습니다.  
+'24시간 약국'이 3곳뿐이라는 한계를 확인하고 '평일 5일 22시 이후 폐점'으로  
+기준을 재설계해 426곳의 야간 약국 지표를 확보했습니다.
+
+🔗 [GitHub Repository](https://github.com/hmh178-gif/solo-living-map-seoul)
+
 ---
 
 ## 🧩 Orange3
