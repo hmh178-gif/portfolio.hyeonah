@@ -77,7 +77,7 @@
 7개 시트로 흩어진 계약 · 청구 · 정산 데이터를 통합하여  
 실질 공헌이익률과 고객별 수금 리스크를 분석하고 인터랙티브 대시보드로 시각화했습니다.
 
-🔗 [GitHub Repository](https://github.com/hmh178-gif/b2b-revenue-risk-analysis)
+🔗 [GitHub Repository][(https://github.com/hmh178-gif/b2b-revenue-risk-analysis)](https://github.com/hmh178-gif/revenue-behind-the-numbers)
 
 ---
 
