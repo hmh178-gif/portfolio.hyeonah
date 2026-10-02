@@ -90,6 +90,15 @@
 
 🔗 [GitHub Repository](https://github.com/hmh178-gif/policy-briefing-dashboard)
 
+### ☕ 오늘, 카페에서 어떤 책을 읽을까?
+**상황과 감정 기반 도서 추천 서비스**
+
+카카오 도서 API로 수집한 도서를 Gemini로 라벨링하고,  
+알라딘 판매지수·리뷰를 결합해 153권의 추천 데이터셋을 구축했습니다.  
+상황 6개 × 감정 7개 조합으로 책을 추천합니다.
+
+🔗 [GitHub Repository](https://github.com/hmh178-gif/cafe-book-recommender)
+
 ---
 
 ## 🧩 Orange3
