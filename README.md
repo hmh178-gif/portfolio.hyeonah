@@ -79,6 +79,17 @@
 
 🔗 [GitHub Repository](https://github.com/hmh178-gif/revenue-behind-the-numbers)
 
+### 🏪 폐업 이후의 지도 — 서울 소상공인 폐업 분석
+**행정동·업종 단위 폐업 분석과 지원제도 전수조사**
+
+2024~2025년 폐업 140,873건을 분석해, 폐업 '건수'와 '비율'이  
+서로 다른 지역을 가리킨다는 점을 확인했습니다.  
+분석 중 분모 정의 오류를 발견해 전체 순위를 재계산했고,  
+점포가 없는 업종(전자상거래업)을 외부 데이터 교차검증으로 식별해 제외했습니다.
+
+**2인 팀 프로젝트**
+🔗 [GitHub Repository](https://github.com/hmh178-gif/seoul-closure-analysis)
+
 ## 🕸️ Web Scraping · Dashboard
 
 ### 📰 정책브리핑 보도자료 수집 · 부처별 현황 대시보드
