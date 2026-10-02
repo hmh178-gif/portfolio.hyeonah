@@ -69,7 +69,7 @@
 
 서로 다른 형태의 통신사 데이터를 휴대전화 모델 기준으로 매칭하여  
 지원금 및 요금제 차이를 비교·분석했습니다.
-🔗 [GitHub Repository](https://github.com/hmh178-gif/telecom-plan-analysis)
+🔗 [GitHub Repository](https://github.com/hmh178-gif/revenue-behind-the-numbers)
 
 ### 💰 B2B 크리에이터 결제 데이터 수익성 · 채권 리스크 분석
 **매출 지표에 가려진 실질 수익성과 회수 리스크 진단**
