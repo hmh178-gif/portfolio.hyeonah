@@ -79,6 +79,17 @@
 
 🔗 [GitHub Repository](https://github.com/hmh178-gif/revenue-behind-the-numbers)
 
+## 🕸️ Web Scraping · Dashboard
+
+### 📰 정책브리핑 보도자료 수집 · 부처별 현황 대시보드
+**날짜별 실시간 수집이 가능한 반응형 웹 대시보드**
+
+대한민국 정책브리핑(korea.kr) 보도자료를 수집하여  
+부처별 발표 현황과 기사 목록을 시각화했습니다.  
+정적 HTML의 CORS 제약을 Google Apps Script 웹앱 구조로 전환하여 해결했습니다.
+
+🔗 [GitHub Repository](https://github.com/hmh178-gif/policy-briefing-dashboard)
+
 ---
 
 ## 🧩 Orange3
