@@ -71,6 +71,14 @@
 지원금 및 요금제 차이를 비교·분석했습니다.
 🔗 [GitHub Repository](https://github.com/hmh178-gif/telecom-plan-analysis)
 
+### 💰 B2B 크리에이터 결제 데이터 수익성 · 채권 리스크 분석
+**매출 지표에 가려진 실질 수익성과 회수 리스크 진단**
+
+7개 시트로 흩어진 계약 · 청구 · 정산 데이터를 통합하여  
+실질 공헌이익률과 고객별 수금 리스크를 분석하고 인터랙티브 대시보드로 시각화했습니다.
+
+**개인 프로젝트**
+🔗 [GitHub Repository](https://github.com/hmh178-gif/b2b-revenue-risk-analysis)
 ---
 
 ## 🧩 Orange3
